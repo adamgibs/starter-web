@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work. Adding some more text
 
 ## Purpose
 
-Sample website with plenty of files for demos. Is meant to help with Git training
+Sample website with plenty of files for demos. Is meant to help with Git training. Things and stuff
 
 ## How to contribute
 
