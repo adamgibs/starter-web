@@ -11,3 +11,5 @@ Sample website with plenty of files for demos. Is meant to help with Git trainin
 By contibuting something useful...
 
 ## Deployment
+
+Copyright 2014 Git Training
