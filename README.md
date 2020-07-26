@@ -12,4 +12,4 @@ By contibuting something useful that people will like.
 
 ## Deployment
 
-Copyright 2014 Git Training
+Copyright 2014 Git Training. All rights reserved
