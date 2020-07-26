@@ -4,10 +4,10 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Is meant to help with Git training
 
 ## How to contribute
 
-By contibuting something useful
+By contibuting something useful...
 
 ## Deployment
