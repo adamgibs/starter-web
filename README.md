@@ -8,7 +8,7 @@ Sample website with plenty of files for demos. Is meant to help with Git trainin
 
 ## How to contribute
 
-By contibuting something useful...
+By contibuting something useful that people will like.
 
 ## Deployment
 
